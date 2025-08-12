@@ -76,6 +76,7 @@ package hfhhfhzx.markdownguide
 println(＂Hello World＂)
 
 var tt = 3
+
 `` `
 
 (PS:第三个`号前我加了个空格，不然有麻烦)
@@ -120,3 +121,34 @@ var tt = 3
 [github](https://github.com)
 [许可证](./LICENSE)
 [114](#换行)
+
+ 6.>号
+ 
+这个符号可以在文字前面加一条竖线
+
+示例
+```markdown
+> 444
+
+> [!CAUTION]
+> 114
+
+> [!Note]
+>555
+
+> [!WARNING]
+>777
+```
+
+效果
+
+> 444
+
+> [!CAUTION]
+> 114
+
+> [!Note]
+>555
+
+> [!WARNING]
+>777
