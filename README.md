@@ -112,14 +112,18 @@ var tt = 3
 示例
 ```markdown
 [github](https://github.com)
+
 [许可证](./LICENSE)
+
 [114](#换行)
 ```
 
 效果
 
 [github](https://github.com)
+
 [许可证](./LICENSE)
+
 [114](#换行)
 
  6.>号
@@ -152,3 +156,23 @@ var tt = 3
 
 > [!WARNING]
 >777
+
+# 徽标
+徽标主要用于显示项目的一些基本信息
+
+示例
+```markdown
+<a href="https://github.com/hfhhfhzx/UnpackScript/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hfhhfhzx/UnpackScript?label=stars"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hfhhfhzx/UnpackScript"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/hfhhfhzx/UnpackScript"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/UnpackScript"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/UnpackScript"></a>p
+```
+
+效果
+
+<a href="https://github.com/hfhhfhzx/UnpackScript/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hfhhfhzx/UnpackScript?label=stars"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hfhhfhzx/UnpackScript"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/hfhhfhzx/UnpackScript"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/UnpackScript"></a>
+<a href="https://github.com/hfhhfhzx/UnpackScript/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/UnpackScript"></a>p
