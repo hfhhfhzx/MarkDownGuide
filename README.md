@@ -17,7 +17,7 @@
 
 
 # 换行
-在md中，如果仅是按一下回车，那么上一行和下一行只会隔一段距离，并不会直接隔一行。因此，想要真真隔一行需要按两下回车
+在md中，如果仅是按一下回车，那么上一行和下一行只会隔一段距离，并不会直接隔一行。因此，想要真正隔一行需要按两下回车
 
 示例
 ```markdown
@@ -164,25 +164,25 @@ var tt = 3
 
 示例
 ```markdown
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hfhhfhzx/MarkDownGuide?label=stars"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
-<a href="https://www.star-history.com/#hfhhfhzx/MarkDownGuide&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hfhhfhzx/MarkDownGuide&type=Timeline"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/graphs/contributors"><img src="https://contrib.rocks/image?repo=hfhhfhzx/MarkDownGuide"></a>
+<a href="https://github.com/LSPosed/LSPosed/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LSPosed/LSPosed?label=stars"></a>
+<a href="https://github.com/LSPosed/LSPosed/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/LSPosed/LSPosed"></a>
+<a href="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
+<a href="https://www.star-history.com/#LSPosed/LSPosed&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LSPosed/LSPosed&type=Timeline"></a>
+<a href="https://github.com/LSPosed/LSPosed/graphs/contributors"><img src="https://contrib.rocks/image?repo=LSPosed/LSPosed"></a>
 ```
 
-(PS:把"hfhhfhzx/MarkDownGuide换为你们的仓库即可直接使用")
+(PS:由于我的项目~~无人问津~~局限性太大，所以我使用LSPosed项目示范。把＂LSPosed/LSPosed＂换为你们的仓库即可直接使用)
 
 效果
 
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hfhhfhzx/MarkDownGuide?label=stars"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
-<a href="https://www.star-history.com/#hfhhfhzx/MarkDownGuide&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hfhhfhzx/MarkDownGuide&type=Timeline"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/graphs/contributors"><img src="https://contrib.rocks/image?repo=hfhhfhzx/MarkDownGuide"></a>
+<a href="https://github.com/LSPosed/LSPosed/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LSPosed/LSPosed?label=stars"></a>
+<a href="https://github.com/LSPosed/LSPosed/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/LSPosed/LSPosed"></a>
+<a href="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
+<a href="https://www.star-history.com/#LSPosed/LSPosed&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LSPosed/LSPosed&type=Timeline"></a>
+<a href="https://github.com/LSPosed/LSPosed/graphs/contributors"><img src="https://contrib.rocks/image?repo=LSPosed/LSPosed"></a>
