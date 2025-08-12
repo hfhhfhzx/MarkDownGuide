@@ -170,6 +170,8 @@ var tt = 3
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
+<a href="https://www.star-history.com/#hfhhfhzx/MarkDownGuide&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hfhhfhzx/MarkDownGuide&type=Timeline"></a>
+<a href="https://github.com/hfhhfhzx/MarkDownGuide/graphs/contributors"><img src="https://contrib.rocks/image?repo=hfhhfhzx/MarkDownGuide"></a>
 ```
 
 (PS:把"hfhhfhzx/MarkDownGuide换为你们的仓库即可直接使用")
@@ -182,3 +184,5 @@ var tt = 3
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
+<a href="https://www.star-history.com/#hfhhfhzx/MarkDownGuide&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hfhhfhzx/MarkDownGuide&type=Timeline"></a>
+<a href="https://github.com/hfhhfhzx/MarkDownGuide/graphs/contributors"><img src="https://contrib.rocks/image?repo=hfhhfhzx/MarkDownGuide"></a>
