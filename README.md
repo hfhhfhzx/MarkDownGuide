@@ -77,5 +77,13 @@ package hfhhfhzx.markdownguide
 println(＂Hello World＂)
 var tt = 3
 ```
+(PS:有点显示异常)
 
+效果
+
+```kotlin
+package hfhhfhzx.markdownguide
+
+println(＂Hello World＂)
+var tt = 3
 ```
