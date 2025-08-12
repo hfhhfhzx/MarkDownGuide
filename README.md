@@ -52,6 +52,7 @@ kll
 **666**
 
   2.~~
+
 这个字符串可以施加删除线的效果
 
 示例
@@ -61,3 +62,20 @@ kll
 效果
 
 ~~777~~
+
+  3.```
+
+这个字符串可以显示代码
+
+示例
+
+```markdown
+
+```kotlin
+package hfhhfhzx.markdownguide
+
+println(＂Hello World＂)
+var tt = 3
+```
+
+```
