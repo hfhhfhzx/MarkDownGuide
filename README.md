@@ -70,9 +70,11 @@ kll
 示例
 
 `` `kotlin
+
 package hfhhfhzx.markdownguide
 
 println(＂Hello World＂)
+
 var tt = 3
 `` `
 
@@ -101,3 +103,20 @@ var tt = 3
 
 - 114
 - 2145
+
+ 5.[]()号
+
+这个号可以创建超链接。在小括号里输入URL可以跳转到这个URL，在小括号里输入./+文件名可以跳转到此github项目中自述文件所在目录的的文件，在小括号里输入#+标题名可以跳转到自述文件中的标题
+
+示例
+```markdown
+[github](https://github.com)
+[许可证](./LICENSE)
+[114](#换行)
+```
+
+效果
+
+[github](https://github.com)
+[许可证](./LICENSE)
+[114](#换行)
