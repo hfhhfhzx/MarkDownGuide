@@ -160,14 +160,19 @@ var tt = 3
 # 徽标
 徽标主要用于显示项目的一些基本信息
 
+徽标由第三方驱动，我们要做的是调用它们
+
 示例
 ```markdown
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hfhhfhzx/MarkDownGuide?label=stars"></a>
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>p
+<a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>
+<a href="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
 ```
+
+(PS:把"hfhhfhzx/MarkDownGuide换为你们的仓库即可直接使用")
 
 效果
 
@@ -175,4 +180,5 @@ var tt = 3
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/hfhhfhzx/MarkDownGuide"></a>
 <a href="https://github.com/hfhhfhzx/MarkDownGuide/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/hfhhfhzx/MarkDownGuide"></a>
-<a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>p
+<a href="https://github.com/hfhhfhzx/MarkDownGuide/discussions"><img alt="GitHub discussions" src="https://img.shields.io/github/discussions/hfhhfhzx/MarkDownGuide"></a>
+<a href="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/hfhhfhzx/MarkDownGuide/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
