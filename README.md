@@ -172,6 +172,7 @@ var tt = 3
 <a href="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
 <a href="https://www.star-history.com/#LSPosed/LSPosed&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LSPosed/LSPosed&type=Timeline"></a>
 <a href="https://github.com/LSPosed/LSPosed/graphs/contributors"><img src="https://contrib.rocks/image?repo=LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed"><img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=LSPosed&repo=LSPosed"></a>
 ```
 
 (PS:由于我的项目~~无人问津~~局限性太大，所以我使用LSPosed项目示范。把＂LSPosed/LSPosed＂换为你们的仓库即可直接使用)
@@ -186,3 +187,4 @@ var tt = 3
 <a href="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"><img alt="GitHub" src="https://socialify.git.ci/LSPosed/LSPosed/image?font=Rokkitt&forks=1&issues=1&language=1&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto"></a>
 <a href="https://www.star-history.com/#LSPosed/LSPosed&Timeline"> <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LSPosed/LSPosed&type=Timeline"></a>
 <a href="https://github.com/LSPosed/LSPosed/graphs/contributors"><img src="https://contrib.rocks/image?repo=LSPosed/LSPosed"></a>
+<a href="https://github.com/LSPosed/LSPosed"><img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=LSPosed&repo=LSPosed"></a>
