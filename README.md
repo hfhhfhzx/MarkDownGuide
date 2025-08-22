@@ -173,6 +173,8 @@ var tt = 3
 
 徽标由第三方驱动，我们要做的是调用它们
 
+其中，herf=后面需要添加的URL是点击徽标后跳转到的地址，src=后面需要添加的URL决定徽标的样子
+
 示例
 ```markdown
 <a href="https://github.com/LSPosed/LSPosed/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/LSPosed/LSPosed?label=stars"></a>
