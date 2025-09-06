@@ -236,3 +236,5 @@ var tt = 3
 <a href="https://github.com/LSPosed/LSPosed"><img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=LSPosed&repo=LSPosed"></a>
 
 # 图片
+
+这玩意其实与徽标类似
