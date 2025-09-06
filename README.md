@@ -237,4 +237,5 @@ var tt = 3
 
 # 图片
 
-这玩意其实与徽标类似
+这玩意其实与徽标类似，将上面的src替换一下就好了
+<a href="assets/icon.jpeg"><img alt="icon" src="assets/icon.jpeg"></a>
